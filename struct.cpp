@@ -9,3 +9,8 @@ struct Orang
     int umur;
 
 };
+
+int main()
+{
+    
+}
