@@ -12,5 +12,5 @@ struct Orang
 
 int main()
 {
-    
+    Orang mhs;
 }
