@@ -12,7 +12,7 @@ int main()
      cout << "isi data kedua setelah dirubah : " << dataku[1] << endl;
 
 
-     cout << "isikan data pertama : ";
+    cout << "isikan data pertama : ";
     cin >> datamu[0];
     cout << "isikan data kedua : ";
     cin >> datamu[1];
@@ -24,12 +24,25 @@ int main()
     cin >> datamu[4];
     cout << endl;
 
-     cout << "data pertamaa = " << datamu[0] << endl;
+    cout << "data pertamaa = " << datamu[0] << endl;
     cout << "data kedua = " << datamu[1] << endl;
     cout << "data ketiga = " << datamu[2] << endl;
     cout << "data keempat = " << datamu[3] << endl;
     cout << "datakelima = " << datamu[4] << endl;
     cout << endl;
+
+
+    cout << "input array menggunakan for " << endl;
+
+    for (int i = 0; i <=4; i++)
+    {
+        cout << "isikan data ke-" << (i =1) << " : " ;
+        cin >> datamu[i];
+
+    }
+    cout << endl;
+
+
 
 
 
