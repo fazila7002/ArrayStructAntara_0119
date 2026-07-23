@@ -12,6 +12,20 @@ int main()
      cout << "isi data kedua setelah dirubah : " << dataku[1] << endl;
 
 
+     cout << "isikan data pertama : ";
+    cin >> datamu[0];
+    cout << "isikan data kedua : ";
+    cin >> datamu[1];
+    cout << "isikan data ketiga : ";
+    cin >> datamu[2];
+    cout << "isikan data kempatt : ";
+    cin >> datamu[3];
+    cout << "isikan data kelima : ";
+    cin >> datamu[4];
+    cout << endl;
+
+
+
 
 
 
